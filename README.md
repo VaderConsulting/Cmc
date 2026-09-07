@@ -1,6 +1,6 @@
 # Cmc
 
-VB6 working copy of `Cmc` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. `VersionCompanyName`: Chips, Bits and Bytes.
+Chips, Bits and Bytes VB6 CMC browser (`Project1.vbp` / `Form1`) over Jet Access `CMC.MDB`: ADO DataGrid plus TreeView that walks hierarchical CMC and parent codes with Step/Next and Sort. Open `Project1.vbp` in the VB6 IDE (needs the Access MDB beside the exe).
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
